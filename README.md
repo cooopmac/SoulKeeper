@@ -53,4 +53,4 @@ Soul Keeper is developed in Unity using C# for all game logic. The game features
 
 ## Credits
 
-Soul Keeper was created as a personal project for learning game development. All assets and code were created by the developer unless otherwise noted. 
+Soul Keeper was created as a personal project for learning game development. All assets and code were created by me.
